@@ -1,1 +1,11 @@
 
+<dict>
+<key>bundle-identifier</key>
+<string>com.app.jianmo</string> //ipa包的应用包名Bundle ID
+<key>bundle-version</key>
+<string>1.0</string> //ipa包的版本号
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>sky App download</string>
+</dict>
