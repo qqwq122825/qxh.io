@@ -13,6 +13,7 @@
                         <key>url</key>
                         <!-- 注意：IPA文件URL -->
                         <string>https://iosqxh.oss-cn-beijing.aliyuncs.com/mzcx.ipa</string>
+                        
                     </dict>
                     <dict>
                         <key>kind</key>
