@@ -1,11 +1,45 @@
-
-<dict>
-<key>bundle-identifier</key>
-<string>com.app.jianmo</string> //ipa包的应用包名Bundle ID
-<key>bundle-version</key>
-<string>1.0</string> //ipa包的版本号
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>sky App download</string>
-</dict>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <!-- 注意：IPA文件URL -->
+                        <string>https://iosqxh.oss-cn-beijing.aliyuncs.com/skyyqm.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <!-- 注意：应用程序icon url, 57x57 -->
+                        <string>https://iosqxh.oss-cn-beijing.aliyuncs.com/skylogo.png</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <!-- 注意：应用程序identifier -->
+                    <string>com.app.jianmo</string>
+                    <key>bundle-version</key>
+                    <string>1.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string>lzw.me</string>
+                    <key>title</key>
+                    <!-- 注意：应用程序名称 -->
+                    <string>光遇</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
