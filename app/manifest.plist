@@ -22,23 +22,23 @@
                         <true/>
                         <key>url</key>
                         <!-- 注意：应用程序icon url, 57x57 -->
-                        <string>https://iosqxh.oss-cn-beijing.aliyuncs.com/skylogo.png</string>
+                        <string>https://iosqxh.oss-cn-beijing.aliyuncs.com/AppIcon29x29%402x.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
                     <!-- 注意：应用程序identifier -->
-                    <string>com.app.jianmo</string>
+                    <string>com.timemicro.miaozou.SBL7D7T635</string>
                     <key>bundle-version</key>
-                    <string>1.0</string>
+                    <string>2.2.4</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
                     <string>lzw.me</string>
                     <key>title</key>
                     <!-- 注意：应用程序名称 -->
-                    <string>光遇</string>
+                    <string>喵走出行</string>
                 </dict>
             </dict>
         </array>
